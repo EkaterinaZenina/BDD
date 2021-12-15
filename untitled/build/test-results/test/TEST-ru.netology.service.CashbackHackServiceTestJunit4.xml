@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.service.CashbackHackServiceTestJunit4" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-15T07:10:02" hostname="MacBookrM1sAir2.Dlink" time="0.01">
+  <properties/>
+  <testcase name="shouldCalculateCashbackFrom1001" classname="ru.netology.service.CashbackHackServiceTestJunit4" time="0.006"/>
+  <testcase name="shouldCalculateCashbackFrom1100" classname="ru.netology.service.CashbackHackServiceTestJunit4" time="0.001"/>
+  <testcase name="shouldCalculateCashbackFrom999" classname="ru.netology.service.CashbackHackServiceTestJunit4" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
