@@ -1,0 +1,4 @@
+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
+EkaterinaZenina
+ASUS X553M,      Windows 10 19043.1165,      Google Chrome  Версия 92.0.4515.159
+https://github.com/melamorymory/unit/blob/master/.github/workflows/gradle.yml
